@@ -2,7 +2,7 @@
 
 [![Awesome Codex MCP Servers](web/banner.png)](https://kuber.studio/awesome-codex-mcp-servers/)
 
-**Translations:** English · [help translate this list →](CONTRIBUTING.md#translations)
+**Translations:** English · [简体中文](README.zh-CN.md) · [繁體中文](README.zh-TW.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt-BR.md) · [add yours →](CONTRIBUTING.md#translations)
 
 > A curated, hype-free catalog of Model Context Protocol (MCP) servers that give **OpenAI Codex** hands and eyes — across the Codex CLI, the IDE extension, and Codex cloud.
 
