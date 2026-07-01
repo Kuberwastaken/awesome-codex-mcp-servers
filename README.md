@@ -2,6 +2,8 @@
 
 > A curated, hype-free catalog of Model Context Protocol (MCP) servers that give **OpenAI Codex** hands and eyes — across the Codex CLI, the IDE extension, and Codex cloud.
 
+**[Browse the searchable directory →](https://kuber.studio/awesome-codex-mcp-servers/)** — search, filter by category, language, and hosting, and grab a config snippet in one click.
+
 The [Model Context Protocol](https://modelcontextprotocol.io) is an open standard for connecting AI apps to external tools, data, and services. Codex is the **client (host)**; each server below exposes tools, resources, or prompts that Codex can call. Because MCP is a standard, most of these servers also work in Cursor, Claude, and other clients — the only thing that changes is the config format. If you're on Claude, see the sibling list: **[awesome-claude-mcp-servers](https://github.com/Kuberwastaken/awesome-claude-mcp-servers)**.
 
 This list favors **signal over volume**: servers that people actually run, that are maintained, and that do one thing well. Every entry is tagged so you can scan by language, where it runs, and who stands behind it.
