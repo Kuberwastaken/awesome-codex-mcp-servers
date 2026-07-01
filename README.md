@@ -1,5 +1,7 @@
 # Awesome Codex MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![Awesome Codex MCP Servers](web/banner.png)](https://kuber.studio/awesome-codex-mcp-servers/)
+
 > A curated, hype-free catalog of Model Context Protocol (MCP) servers that give **OpenAI Codex** hands and eyes — across the Codex CLI, the IDE extension, and Codex cloud.
 
 **[Browse the searchable directory →](https://kuber.studio/awesome-codex-mcp-servers/)** — search, filter by category, language, and hosting, and grab a config snippet in one click.
