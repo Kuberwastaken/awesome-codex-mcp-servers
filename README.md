@@ -402,6 +402,7 @@ Run and manage many servers behind one endpoint — routing, auth, tool filterin
 
 ## Science and research
 
+- [Ask Helena](https://github.com/helena-bioinformatics/ask-helena-mcp) - Search official public information about Helena Bioinformatics and its published products with source citations. `Py` `remote` `official`
 - [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search and analyze arXiv research papers. `Py` `local`
 - [BioMCP](https://github.com/genomoncology/biomcp) - Biomedical research across PubMed and ClinicalTrials.gov. `Py` `local`
 - [PapersWithCode](https://github.com/hbg/mcp-paperswithcode) - Search research papers, conferences, and associated codebases. `Py` `local`
