@@ -1,6 +1,6 @@
 {
   "generated": "from README.md by scripts/build-data.mjs",
-  "count": 198,
+  "count": 199,
   "categories": [
     "Aggregators and gateways",
     "Developer tools and version control",
@@ -2268,6 +2268,18 @@
       ],
       "runs": "local",
       "source": "community"
+    },
+    {
+      "id": "noodle-biomedical-literature-discovery-mcp",
+      "name": "Noodle Biomedical Literature Discovery MCP",
+      "url": "https://github.com/helena-bioinformatics/noodle-mcp",
+      "description": "Search public biomedical papers by natural language or PMID/DOI/PMCID and traverse bounded citation or semantic literature graphs with source links and provenance.",
+      "category": "Science and research",
+      "languages": [
+        "Py"
+      ],
+      "runs": "remote",
+      "source": "official"
     },
     {
       "id": "paperswithcode",
