@@ -404,6 +404,7 @@ Run and manage many servers behind one endpoint — routing, auth, tool filterin
 
 - [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search and analyze arXiv research papers. `Py` `local`
 - [BioMCP](https://github.com/genomoncology/biomcp) - Biomedical research across PubMed and ClinicalTrials.gov. `Py` `local`
+- [Noodle Biomedical Literature Discovery MCP](https://github.com/helena-bioinformatics/noodle-mcp) - Search public biomedical papers by natural language or PMID/DOI/PMCID and traverse bounded citation or semantic literature graphs with source links and provenance. `Py` `remote` `official`
 - [PapersWithCode](https://github.com/hbg/mcp-paperswithcode) - Search research papers, conferences, and associated codebases. `Py` `local`
 - [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search foods, nutrition facts, and barcodes. `TS` `local`
 - [gget](https://github.com/longevity-genie/gget-mcp) - Bioinformatics and genomics toolkit wrapping the gget library. `Py` `local`
