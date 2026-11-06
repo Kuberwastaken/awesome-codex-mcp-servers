@@ -405,6 +405,7 @@ Run and manage many servers behind one endpoint — routing, auth, tool filterin
 - [ArXiv](https://github.com/blazickjp/arxiv-mcp-server) - Search and analyze arXiv research papers. `Py` `local`
 - [BioMCP](https://github.com/genomoncology/biomcp) - Biomedical research across PubMed and ClinicalTrials.gov. `Py` `local`
 - [PapersWithCode](https://github.com/hbg/mcp-paperswithcode) - Search research papers, conferences, and associated codebases. `Py` `local`
+- [Folklore Clinical Variant Interpretation MCP](https://github.com/helena-bioinformatics/folklore-mcp) - Folklore MCP 2.0.0 offers 11 public tools for ACMG/AMP germline variant classification, gene profiles, disease associations and literature. A Folklore Bearer API key adds 18 case, approved-source and report tools at the same hosted endpoint. Results require qualified professional review. `Py` `remote` `official`
 - [OpenNutrition](https://github.com/deadletterq/mcp-opennutrition) - Search foods, nutrition facts, and barcodes. `TS` `local`
 - [gget](https://github.com/longevity-genie/gget-mcp) - Bioinformatics and genomics toolkit wrapping the gget library. `Py` `local`
 
