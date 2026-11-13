@@ -292,6 +292,7 @@ Run and manage many servers behind one endpoint — routing, auth, tool filterin
 - [Netlify](https://github.com/netlify/netlify-mcp) - Create, build, deploy, and manage Netlify sites. `TS` `local` `official`
 - [Nomad](https://github.com/kocierik/mcp-nomad) - Manage HashiCorp Nomad jobs and clusters. `Go` `local`
 - [Hetzner Cloud](https://github.com/dkruyt/mcp-hetzner) - Interact with the Hetzner Cloud API. `TS` `local`
+- [DC Hub](https://github.com/azmartone67/dchub-mcp-server) - Live data-center and energy intelligence for power, grid, interconnection queues, capacity, fiber, sites and markets. `JS` `local/remote` `official`
 
 ## Monitoring and observability
 
