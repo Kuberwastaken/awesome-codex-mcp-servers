@@ -399,6 +399,7 @@ Run and manage many servers behind one endpoint — routing, auth, tool filterin
 - [Godot](https://github.com/Coding-Solo/godot-mcp) - Launch, run, and debug the Godot game engine. `TS` `local`
 - [Unity](https://github.com/CoderGamester/mcp-unity) - Control and interact with the Unity editor. `C#` `local`
 - [OP.GG](https://github.com/opgginc/opgg-mcp) - Real-time gaming stats across popular titles. `TS` `local/remote` `official`
+- [No Stairs Please](https://nostairsplease.com/mcp) - Search 3,400+ under-400-capacity live music venues with payout terms and booking contacts. `remote`
 
 ## Science and research
 
