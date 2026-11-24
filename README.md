@@ -197,7 +197,7 @@ Run and manage many servers behind one endpoint — routing, auth, tool filterin
 - [MCP Language Server](https://github.com/isaacphi/mcp-language-server) - Give agents semantic code tools: definitions, references, and diagnostics. `Go` `local`
 - [Gitee](https://github.com/oschina/mcp-gitee) - Repository, issue, and pull-request management for Gitee. `TS` `local` `official`
 - [xmcp Docs](https://xmcp.dev/docs/guides/xmcp-mcp-server) - Search and read the official xmcp TypeScript framework documentation. `TS` `remote` `official`
-- [Graphify](https://github.com/Graphify-Labs/graphify-codex-plugin) - Shared codebase context from a code knowledge graph: find symbols, trace callers and dependencies, check the impact of a change, and share team memory and pull request review results. `Py` `remote` `official`
+- [Graphify](https://github.com/Graphify-Labs/graphify-codex-plugin) - Shared codebase context from a code knowledge graph: find symbols, trace callers and dependencies, check the impact of a change, and share team memory and pull request review results. `remote` `official`
 
 ## Browser automation
 
@@ -377,7 +377,7 @@ Run and manage many servers behind one endpoint — routing, auth, tool filterin
 - [Sequential Thinking](https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthinking) - Structured, revisable multi-step reasoning. `TS` `local` `reference`
 - [Hugging Face](https://github.com/huggingface/hf-mcp-server) - Access Hugging Face models, datasets, and Spaces. `TS` `local/remote` `official`
 - [Hugging Face Spaces](https://github.com/evalstate/mcp-hfspace) - Use Hugging Face Spaces for image, audio, and text models. `TS` `local`
-- [RunAPI](https://github.com/runapi-ai/mcp) - Discover models, check pricing, create media tasks, and inspect RunAPI account balance. `TS` `local` `official`
+- [RunAPI](https://github.com/runapi-ai/mcp) - Discover models, check pricing, create paid media tasks, and inspect RunAPI account balance. `TS` `local` `official`
 - [Google Analytics](https://github.com/googleanalytics/google-analytics-mcp) - Query GA4 analytics data. `Py` `local` `official`
 - [MindsDB](https://github.com/mindsdb/mindsdb) - Query and unify data across platforms as one MCP server. `Py` `local/remote`
 - [Vectorize](https://github.com/vectorize-io/vectorize-mcp-server) - Retrieval, deep research, and Markdown extraction over Vectorize. `JS` `local/remote` `official`
