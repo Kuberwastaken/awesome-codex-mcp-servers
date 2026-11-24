@@ -197,6 +197,7 @@ Run and manage many servers behind one endpoint — routing, auth, tool filterin
 - [MCP Language Server](https://github.com/isaacphi/mcp-language-server) - Give agents semantic code tools: definitions, references, and diagnostics. `Go` `local`
 - [Gitee](https://github.com/oschina/mcp-gitee) - Repository, issue, and pull-request management for Gitee. `TS` `local` `official`
 - [xmcp Docs](https://xmcp.dev/docs/guides/xmcp-mcp-server) - Search and read the official xmcp TypeScript framework documentation. `TS` `remote` `official`
+- [Graphify](https://github.com/Graphify-Labs/graphify-codex-plugin) - Shared codebase context from a code knowledge graph: find symbols, trace callers and dependencies, check the impact of a change, and share team memory and pull request review results. `Py` `remote` `official`
 
 ## Browser automation
 
