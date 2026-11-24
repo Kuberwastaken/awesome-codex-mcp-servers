@@ -198,6 +198,7 @@ Run and manage many servers behind one endpoint — routing, auth, tool filterin
 - [Gitee](https://github.com/oschina/mcp-gitee) - Repository, issue, and pull-request management for Gitee. `TS` `local` `official`
 - [xmcp Docs](https://xmcp.dev/docs/guides/xmcp-mcp-server) - Search and read the official xmcp TypeScript framework documentation. `TS` `remote` `official`
 - [Graphify](https://github.com/Graphify-Labs/graphify-codex-plugin) - Shared codebase context from a code knowledge graph: find symbols, trace callers and dependencies, check the impact of a change, and share team memory and pull request review results. `remote` `official`
+- [Oh My Android](https://github.com/ateymoori/oh-my-android) - Drive the Android Emulator from an agent: dark mode, locale, GPS, screenshots, and UI inspection on macOS. `Swift` `local`
 
 ## Browser automation
 
