@@ -380,6 +380,7 @@ Run and manage many servers behind one endpoint — routing, auth, tool filterin
 - [Hugging Face Spaces](https://github.com/evalstate/mcp-hfspace) - Use Hugging Face Spaces for image, audio, and text models. `TS` `local`
 - [RunAPI](https://github.com/runapi-ai/mcp) - Discover models, check pricing, create paid media tasks, and inspect RunAPI account balance. `TS` `local` `official`
 - [Google Analytics](https://github.com/googleanalytics/google-analytics-mcp) - Query GA4 analytics data. `Py` `local` `official`
+- [Invokely MCP connector](https://github.com/estevecastells/invokely-mcp-connector) - Use a local stdio connector to query official statistics from Invokely's hosted MCP service; the repository does not include the hosted backend source. `JS` `local/remote`
 - [MindsDB](https://github.com/mindsdb/mindsdb) - Query and unify data across platforms as one MCP server. `Py` `local/remote`
 - [Vectorize](https://github.com/vectorize-io/vectorize-mcp-server) - Retrieval, deep research, and Markdown extraction over Vectorize. `JS` `local/remote` `official`
 - [ZenML](https://github.com/zenml-io/mcp-zenml) - Query MLOps and LLMOps pipelines in ZenML. `Py` `local` `official`
