@@ -361,6 +361,7 @@ Run and manage many servers behind one endpoint — routing, auth, tool filterin
 - [Financial Datasets](https://github.com/financial-datasets/mcp-server) - Stock-market and fundamentals data built for agents. `Py` `local`
 - [Alpaca](https://github.com/cesarvarela/alpaca-mcp) - Trade stocks and crypto through Alpaca APIs. `Py` `local`
 - [CoinCap](https://github.com/QuantGeekDev/coincap-mcp) - Real-time cryptocurrency market data, no API key. `TS` `local`
+- [FlowFeed](https://github.com/loyt1/flowfeed-mcp) - Real-time macro, forex and crypto news, an economic calendar and central bank releases (paid). `remote` `official`
 
 ## Design and creative
 
