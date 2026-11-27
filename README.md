@@ -265,6 +265,7 @@ Run and manage many servers behind one endpoint — routing, auth, tool filterin
 - [Apple Notes](https://github.com/sirmews/apple-notes-mcp) - Read from the local Apple Notes database on macOS. `Py` `local`
 - [Logseq](https://github.com/apw124/logseq-mcp) - Interact with a Logseq knowledge graph. `Py` `local`
 - [Graphlit](https://github.com/graphlit/graphlit-mcp-server) - Ingest Slack, Gmail, and web content into a searchable knowledge base. `TS` `local/remote` `official`
+- [Enhanciar](https://github.com/enhanciar/enhanciar-mcp) - Ask questions over a team's Slack, Gmail, Drive, Notion, Jira, Linear and GitHub with source links, and propose follow-ups for a person to approve. `Py` `remote` `official`
 
 ## Files and document handling
 
